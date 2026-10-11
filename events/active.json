@@ -1,0 +1,54 @@
+{
+  "slug": "the-grand-day-events-kollam",
+  "name": "The Grand Day Events Kollam",
+  "shortName": "The Grand Day Events Kollam",
+  "descriptor": "Event Management",
+  "address": "Ayathil, Kollam, Keralam 691021",
+  "area": "Ayathil",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691021",
+  "geo": {
+    "lat": 8.888736,
+    "lng": 76.6234891
+  },
+  "mapsLink": "https://maps.google.com/?cid=1106122318196399044",
+  "phone": "+91 80895 41468",
+  "whatsapp": "918089541468",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.6,
+  "reviewCount": 148,
+  "reviews": [
+    {
+      "name": "Anver Mon",
+      "rating": 5,
+      "quote": "Amazing food, excellent quality, and great service. Highly recommended for any event"
+    },
+    {
+      "name": "Hari Krishnan",
+      "rating": 5,
+      "quote": "One of the best event management in kollam. Trustable team❤️"
+    },
+    {
+      "name": "Arjun S",
+      "rating": 5,
+      "quote": "Best event very good service customer service of Aswin is very good in this event"
+    },
+    {
+      "name": "Messi Lm",
+      "rating": 5,
+      "quote": "Their Decorations are so beautiful. Such a nice works"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://the-grand-day-events-kollam.vercel.app"
+}
